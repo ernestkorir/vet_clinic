@@ -1,6 +1,6 @@
 
 <a name="readme-top"></a>
-<img src = 'https://user-images.githubusercontent.com/93039359/243916263-02370431-b4b5-474a-85bb-0f6fb15de502.png'>
+<img src = "./asset/logo.png" alt= "Logo">
 
 # 📗 Table of Contents
 
@@ -141,6 +141,6 @@ I would like to thank Micorverse for the guidances
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE) licensed.
+This project is [MIT](./MIT) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
