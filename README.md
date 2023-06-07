@@ -7,14 +7,8 @@
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
-  - [Prerequisites](#prerequisites)
-  - [Install](#install)
-  - [Usage](#usage)
-  - [Run tests](#run-tests)
-  - [Deployment](#triangular_flag_on_post-deployment)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
@@ -96,9 +90,8 @@ Clone this repository to your desired folder:
 
 👤 **Author**
 
-- GitHub: [@ErnestKorir](https://github.com/githubhandle)
-- Twitter: [twitter](https://twitter.com/ernestbore3)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/ernest-bore-3b6042211)
+- GitHub: [@ErnestKorir](https://github.com/ernestkorir)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/ernest-korir/)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
