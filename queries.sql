@@ -20,13 +20,20 @@ UPDATE animals
 SET species = 'pokemon'
 WHERE species IS NULL;
 
+SELECT species from animals;
+
 COMMIT;
+
+SELECT species from animals;
 
 BEGIN;
 
 DELETE FROM animals;
 
 ROLLBACK;
+
+SELECT * FROM animals;
+
 
 BEGIN;
 
