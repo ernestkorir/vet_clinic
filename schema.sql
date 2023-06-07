@@ -13,3 +13,22 @@ CREATE TABLE animals(
 ALTER TABLE animals
 ADD COLUMN species VARCHAR(50);
 ;
+
+--Craete owners table
+CREATE TABLE owners (
+  id SERIAL PRIMARY KEY,
+  full_name VARCHAR(255),
+  age INTEGER
+);
+
+--Create species table
+CREATE TABLE species (
+  id SERIAL PRIMARY KEY,
+  name VARCHAR(255)
+);
+
+--Modify animals table
+DROP COLUMN species,
+ADD COLUMN species_id INTEGER REFERENCES species(id),
+ADD COLUMN owner_id INTEGER REFERENCES owners(id),
+ALTER COLUMN id ADD GENERATED ALWAYS AS IDENTITY;
