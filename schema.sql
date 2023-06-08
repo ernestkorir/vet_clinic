@@ -32,3 +32,11 @@ DROP COLUMN species,
 ADD COLUMN species_id INTEGER REFERENCES species(id),
 ADD COLUMN owner_id INTEGER REFERENCES owners(id),
 ALTER COLUMN id ADD GENERATED ALWAYS AS IDENTITY;
+
+-- Create vets table
+CREATE TABLE vets (
+  id SERIAL PRIMARY KEY,
+  name VARCHAR,
+  age INTEGER,
+  date_of_graduation DATE
+);
