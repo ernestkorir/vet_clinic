@@ -1,6 +1,13 @@
 
 <a name="readme-top"></a>
-<img src = "./asset/logo.png" alt= "Logo">
+<div align="center">
+  <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
+  <img src="./asset/logo.png" alt="logo" width="140"  height="auto" />
+  <br/>
+
+  <h3><b>README</b></h3>
+
+</div>
 
 # 📗 Table of Contents
 
